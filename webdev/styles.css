@@ -2,5 +2,8 @@ p{
     color: red;
 }
 li{
-    color: darkgreen;
+    color: blue;
+}
+li:hover{
+    color: black;
 }
