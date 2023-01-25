@@ -10,7 +10,8 @@ li:hover{
 }
 h1{
     font-family: Unbounded, Roboto, Sans-serif;
-    color: var(--var1)
+    color: var(--var1);
+
 }
 :root{
     --var1: red;
