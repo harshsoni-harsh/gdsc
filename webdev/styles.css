@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
 p{
     color: red;
 }
@@ -6,4 +7,11 @@ li{
 }
 li:hover{
     color: black;
+}
+h1{
+    font-family: Unbounded, Roboto, Sans-serif;
+    color: var(--var1)
+}
+:root{
+    --var1: red;
 }
