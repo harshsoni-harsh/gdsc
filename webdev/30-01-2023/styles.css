@@ -1,0 +1,13 @@
+.navlist{
+    display:flex;
+    justify-content: cneter;
+    flex-direction: row;
+    background-color: black;
+}
+.nav-item{
+    color: white;
+    font-size: 2rem;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
