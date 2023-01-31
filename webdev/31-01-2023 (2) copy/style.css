@@ -1,0 +1,13 @@
+.inside{
+    background-color: aqua;
+    height: 1px;
+    width: 1px;
+    margin: 0;
+    padding: 0;
+}
+.outside{
+    display: flex;
+}
+.hovered{
+    background-color: black;
+}
